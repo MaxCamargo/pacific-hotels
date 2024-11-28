@@ -1,0 +1,124 @@
+{
+  "nichila": {
+    "logo": "Casa Nichila",
+    "reservation": "Reservar",
+    "hero": {
+      "title": "Descubre Casa Nichila",
+      "subtitle": "Vive una experiencia única con Nichila en un destino como ningún otro inmerso en el pacífico Colombiano",
+      "buttonText": "Reserva en Nichila"
+    },
+    "feature": {
+      "small": "El lugar perfecto.",
+      "title": "Nichila",
+      "description": "Permítenos guiarte en un viaje de descubrimiento, donde cada momento está diseñado para superar tus expectativas y encender tu pasión por los viajes.",
+      "textButton": "Solicitar cotización"
+    },
+    "facilities":{
+      "title": "Instalaciones únicas.",
+      "description": "We help you plan a journey of discovery, where every moment is designed to surpass your expectations and ignite your passion for travel.",
+      "facilitiesItems": {
+        "item1": {
+          "title": "Restaurante",
+          "description": "Disfruta de la gastronomia del Pacífico Colombia, con una variedad de platos y una experiencia única."
+        },
+        "item2": {
+          "title": "Vistas a la bahia",
+          "description": "Nuestra vistas panorámica a la bahía nos permiten disfrutar de la belleza y la naturaleza de nuestro destino."
+        },
+        "item3": {
+          "title": "Acceso a la playa",
+          "description": "A tan solo 5 min disfruta de la playa, con opciones de actividades acuaticas y descanso."
+        },
+        "item4": {
+          "title": "Wifi gratis",
+          "description": "Nuestro Wifi es gratuito y ofrece una excelente conexión a Internet, ven y disfruta de tu viaje sin preocupaciones."
+        }
+      }
+    },
+    "masonry": {
+      "title": "Experiencias extraordinarias."
+    },
+    "callToActionOne":{
+      "title": "Reserva una experiencia única",
+      "description": "Explorar Nuquí en el Pacífico Colombiano y haz de tu experiencia de turismo la más grata aventura de la mano de nuestros alojamientos y hoteles.",
+      "buttonTextOne": "Reservar",
+      "ButtonTextTwo": "Ver planes"
+    },
+    "callToActionTwo":{
+      "title": "Hospedaje en Casa Nichila",
+      "description": "Todas nuestras habitaciones tienen un baño propio, camas con toldillo y algunas habitaciones cuentan con amenidades como sillas y mesas (según las necesidades del viajero) y lo más importante, una increíble vista a la naturaleza. Todo lo que necesitas para disfrutar de tu experiencia.",
+      "buttonTextOne": "Reservar",      
+      "ButtonTextTwo": "Ver planes"
+    },
+    "roomsAndSuites": {
+      "title": "Habitaciones y acomodación",
+      "description": "Casa Nichila ecohotel de 2 pisos ideal para grupos de familias o amigos el primer piso está ubicado la cocina y el comedor. En el segundo están ubicadas las 5 habitaciones y la zona social muy amplia con hamacas:",
+      "disclaimer": "Capacidad máxima del alojamiento: 11 personas.",
+      "accommodation": {
+        "room1": {
+          "title": "Habitación 1",
+          "description": "Habitación con cama doble, baño privado con vista al mar."
+        },
+        "room2": {
+          "title": "Habitación 2",
+          "description": "Habitación con cama doble, baño privado con vista al mar."
+        },
+        "room3": {
+          "title": "Habitación 3",
+          "description": "Habitación con cama doble, baño privado y vista interna."
+        },
+        "room4": {
+          "title": "Habitación 4 Small",
+          "description": "Habitación con una cama doble (habitación pequeña) como para una persona"
+        },
+        "room5": {
+          "title": "Habitación 5 Con doble acomodación",
+          "description": "Habitación con dos camas, una doble y una sencilla con baño privado y vista interna."
+        }
+      }
+    } 
+  },
+  "footer": {
+    "contact": "Contáctanos",
+    "rights": "Todos los derechos reservados"
+  },
+  "landing": {
+    "logoName": "Hoteles Nuquí",
+    "title": "Hoteles en Nuquí",
+    "subtitle": "Expertos en alojamientos, ven descubre y disfruta del turismo en Nuquí con los mejores hoteles y ecohoteles del pacífico Colombiano.",
+    "buttonText": "Reservar"
+  },
+  "hotelNames": {
+    "hotelNichila": "Ecohotel Nichila",
+    "hotelBonito": "Hotel Amanecer Bonito"
+  },
+  "server-component": {
+    "welcome": "Willkommen"
+  },
+  "counter": {
+    "increment": "Zuwachs",
+    "decrement": "Dekrementieren"
+  },
+  "languageSwitcher": {
+    "select": "Wählen Sie eine Sprache"
+  },
+  "header": {
+    "menu": {
+      "home": "Hoteles",
+      "about": "Nosotros",
+      "contact": "Diseñador de experiencias"
+    }
+  },
+  "metaData": {
+    "landing": {
+      "title": "Los Mejores Hoteles en Nuquí | Alojamiento en la Costa Pacífica",
+      "subtitle": "Descubre los mejores hoteles en Nuquí, Colombia. Reserva tu alojamiento y disfruta de la naturaleza, el avistamiento de ballenas, la gastronomia y la tranquilidad en la costa del Pacífico.",
+      "alt": "Hoteles en Nuquí"
+    },
+    "nichila": {
+      "title": "Nichila Ecohotel | Los mejores alojamiento en Nuquí",
+      "subtitle": "Ecohotel Nichila hubicado en Nuquí, Chocó a orillas del Pacífico Colombiano es el lugar perfecto para alojarse si tu plan es el avistamiento de ballenas, el ecoturismo o la pesca artesanal. Con playa a 2 min, wifi gratis, restaurante y una vista panorámica a la bahía.",
+      "alt": "Nichila Ecohotel"
+    }
+  }
+}

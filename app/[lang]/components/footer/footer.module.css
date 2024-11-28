@@ -1,0 +1,99 @@
+.footer {
+  background: var(--primary-black-700, #000000);
+  color: var(--neutral-gray-0, #fff);
+  padding: 2rem 1rem;
+
+  .containerFooter {
+    align-items: center;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1rem;
+    @media only screen and (min-width: 768px) {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+
+  .footerDate {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    .icon {
+      font-size: 1.4rem;
+      @media only screen and (min-width: 768px) {
+        font-size: 1.8rem;
+      }
+    }
+    .date {
+      font-size: 14px;
+      font-weight: 200;
+      @media only screen and (min-width: 768px) {
+        font-size: 1rem;
+        font-weight: 300;
+      }
+    }
+    @media only screen and (min-width: 768px) {
+      justify-content: start;
+      flex-direction: row;
+    }
+  }
+
+  .footerFollowBox {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+    font-size: 28px;
+    @media only screen and (min-width: 768px) {
+      flex-direction: row;
+    }
+
+    .footerDownload {
+      display: flex;
+      gap: 1rem;
+      flex-direction: column;
+      text-align: center;
+      .footer-text-mobile {
+        display: block;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 28px;
+        @media only screen and (min-width: 768px) {
+          display: none;
+        }
+      }
+      .footerBottoms {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        @media only screen and (min-width: 768px) {
+          gap: 24px;
+          flex-direction: row;
+        }
+      }
+      .footerDownloadBox {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        .footer-download-btn {
+          background: transparent;
+        }
+      }
+      @media only screen and (min-width: 768px) {
+        flex-direction: row;
+      }
+    }
+
+    .footerSocial {
+      display: flex;
+      gap: 0.5rem;
+    }
+  }
+
+  @media only screen and (min-width: 768px) {
+    padding: 3rem 3rem 4rem;
+  }
+}

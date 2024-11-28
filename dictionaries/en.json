@@ -1,0 +1,124 @@
+{
+  "nichila": {
+    "logo": "Nichila Echohotel",
+    "reservation": "Reservation",
+    "hero": {
+      "title": "Discover Casa Nichila",
+      "subtitle": "Live a unique experience with Nichila in a destination like no other immersed in the Colombian Pacific.",
+      "buttonText": "Book this experience"
+    },
+    "feature": {
+      "small": "The perfect place.",
+      "title": "Nichila",
+      "description": "We help you plan a journey of discovery, where every moment is designed to surpass your expectations and ignite your passion for travel.",
+      "textButton": "Get an Estimate"
+    },
+    "facilities":{
+      "title": "Our best facilities.",
+      "description": "We help you plan a journey of discovery, where every moment is designed to surpass your expectations and ignite your passion for travel.",
+      "facilitiesItems": {
+        "item1": {
+          "title": "Restaurant",
+          "description": "Enjoy the gastronomy of pacific Colombia, with a variety of dishes and a unique experience."
+        },
+        "item2": {
+          "title": "Bay view",
+          "description": "Our panoramic views of the bay allow us to enjoy the beauty and nature of our destination."
+        },
+        "item3": {
+          "title": "Access to the beach",
+          "description": "Just 5 minutes from the beach, with options for water activities and relaxation."
+        },
+        "item4": {
+          "title": "Free Wifi",
+          "description": "Our Wifi is free and offers an excellent Internet connection, come and enjoy your trip without worries."
+        }
+      }
+    },
+    "masonry": {
+      "title": "Extraordinary experiences."
+    },
+    "callToActionOne":{
+      "title": "Book a unique experience",
+      "description": "Explore the Colombian Pacific and make your tourism experience the most pleasant adventure with the help of our accommodations and hotels.",
+      "buttonTextOne": "Book",
+      "ButtonTextTwo": "See Plans"
+    },
+    "callToActionTwo":{
+      "title": "Stay at Casa Nichila",
+      "description": "All our rooms have a private bathroom, beds with a canopy and some rooms have amenities such as chairs and tables (according to the traveler's needs) and most importantly an incredible view of nature. Everything you need to enjoy your experience.",
+      "buttonTextOne": "Book",      
+      "ButtonTextTwo": "See Plans"
+    },
+    "roomsAndSuites": {
+      "title": "Rooms and Suites",
+      "description": "Nichila is an ecohotel with 2 floors ideal for families or friends the first floor is located the kitchen and the dining area. In the second floor are located the 5 rooms and the social space with hammocks:",
+      "disclaimer": "Maximum accommodation capacity: 11 people.",
+      "accommodation": {
+        "room1": {
+          "title": "Room 1",
+          "description": "Room with double bed, private bathroom with view of the sea."
+        },
+        "room2": {
+          "title": "Room 2",
+          "description": "Room with double bed, private bathroom with view of the sea."
+        },
+        "room3": {
+          "title": "Room 3",
+          "description": "Room with double bed, private bathroom and internal view."
+        },
+        "room4": {
+          "title": "Room 4 Small",
+          "description": "Room with a double bed (small room) for a single person"
+        },
+        "room5": {
+          "title": "Room 5 With double accommodation",
+          "description": "Room with two beds, a double and a single with private bathroom and internal view."
+        }
+      }
+    }
+  },
+  "footer": {
+    "contact": "contact us",
+    "rights": "All rights reserved"
+  },
+  "landing": {
+    "logoName": "Nuquí Hotels",
+    "title": "Nuquí Hotels",
+    "subtitle": "Accommodation experts, come discover and enjoy tourism in Nuquí with the best hotels and eco-hotels in the Colombian Pacific.",
+    "buttonText": "Book"
+  },
+  "hotelNames": {
+    "hotelNichila": "Nichila Ecohotel",
+    "hotelBonito": "Bonito Amanecer Hotel"
+  },
+  "server-component": {
+    "welcome": "Welcome"
+  },
+  "counter": {
+    "increment": "Increment",
+    "decrement": "Decrement"
+  },
+  "languageSwitcher": {
+    "select": "Select a locale"
+  },
+  "header": {
+    "menu": {
+      "home": "Hotels",
+      "about": "About",
+      "contact": "Experience designer"
+    }
+  },
+  "metaData": {
+    "landing": {
+      "title": "The Best Hotels in Nuquí | Accommodation on the Pacific Coast",
+      "subtitle": "Discover the best hotels in Nuquí, Colombia. Book your accommodation and enjoy nature, whale watching, gastronomy and tranquility on the Pacific coast.",
+      "alt": "Hotels in Nuqui"
+    },
+    "nichila": {
+      "title": "Ecohotel Nichila | The best accommodation in Nuquí",
+      "subtitle": "Ecohotel Nichila located in Nuquí, Chocó on the edge of the Colombian Pacific is the perfect place to stay if your plan is whale watching, ecotourism or artisanal fishing. With a beach 2 minutes away, free wifi, restaurant and a panoramic view of the bay.",
+      "alt": "Ecohotel Nichila"
+    }
+  }
+}

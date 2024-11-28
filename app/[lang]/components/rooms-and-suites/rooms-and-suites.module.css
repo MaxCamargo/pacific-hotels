@@ -1,0 +1,33 @@
+.roomsAndSuites {
+  padding: 3rem 2rem 5rem;
+  background-color: var(--neutral-gray-100);
+  .roomsAndSuitesContainer {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    .roomsAndSuitesContent {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      gap: 1.5rem;
+      .title {
+        font-size: 36px;
+        @media only screen and (min-width: 1024px) {
+            font-size: 46px;
+        }
+      }
+      .description {
+        font-size: 16px;
+        @media screen and (min-width: 1024px) {
+          font-size: 24px;
+        }
+      }
+    }
+  }
+  @media only screen and (min-width: 1024px) {
+    padding: 5rem 0rem 8rem;
+  }
+}
