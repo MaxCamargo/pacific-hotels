@@ -1,0 +1,73 @@
+{
+  "nichila": {
+    "logo": "Nichila Echohotel",
+    "reservation": "Reservation",
+    "hero": {
+      "title": "Discover Nuquí",
+      "subtitle": "Live a unique experience with Nichila in a destination like no other immersed in the Colombian Pacific.",
+      "buttonText": "Book this experience"
+    },
+    "feature": {
+      "small": "The perfect place.",
+      "title": "Nichila",
+      "description": "We help you plan a journey of discovery, where every moment is designed to surpass your expectations and ignite your passion for travel.",
+      "textButton": "Get an Estimate"
+    },
+    "facilities":{
+      "title": "Our best facilities.",
+      "description": "We help you plan a journey of discovery, where every moment is designed to surpass your expectations and ignite your passion for travel.",
+      "facilitiesItems": {
+        "item1": {
+          "title": "Restaurant",
+          "description": "Enjoy the gastronomy of pacific Colombia, with a variety of dishes and a unique experience."
+        },
+        "item2": {
+          "title": "Bay view",
+          "description": "Our panoramic views of the bay allow us to enjoy the beauty and nature of our destination."
+        },
+        "item3": {
+          "title": "Access to the beach",
+          "description": "Just 5 minutes from the beach, with options for water activities and relaxation."
+        },
+        "item4": {
+          "title": "Free Wifi",
+          "description": "Our Wifi is free and offers an excellent Internet connection, come and enjoy your trip without worries."
+        }
+      }
+    },
+    "masonry": {
+      "title": "Extraordinary experiences."
+    }
+  },
+  "footer": {
+    "contact": "contact us",
+    "rights": "All rights reserved"
+  },
+  "landing": {
+    "logoName": "Nuqui Hotels",
+    "title": "Welcome to Nuqui Hotels",
+    "subtitle": "We are a group of travelers who love to explore the world and discover new places.",
+    "buttonText": "Book"
+  },
+  "hotelNames": {
+    "hotelNichila": "Nichila Hotel",
+    "hotelBonito": "Bonito Amanecer Hotel"
+  },
+  "server-component": {
+    "welcome": "Welcome"
+  },
+  "counter": {
+    "increment": "Increment",
+    "decrement": "Decrement"
+  },
+  "languageSwitcher": {
+    "select": "Select a locale"
+  },
+  "header": {
+    "menu": {
+      "home": "Hotels",
+      "about": "About",
+      "contact": "Experience designer"
+    }
+  }
+}
